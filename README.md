@@ -31,6 +31,6 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:ruandavidpc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ininjafpsX/ininjafpsX/blob/ebe17295bccb3898c25d0cf7fce7814899d79db3/snake.svg)
  
 </div>
