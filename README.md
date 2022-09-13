@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="ininja-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ininja-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ininja-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="ininja-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1017966338091790416/1019082252661051424/logoxxxx.png?width=683&height=683">
+  <img align="right" alt="ininja-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1017966338091790416/1019096737027211284/eu.red.round.png?width=685&height=683">
 </div>
   
   ##
